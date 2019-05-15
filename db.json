@@ -1,8 +1,51 @@
 
-
-[
-  {"name":"henry"}
-
-
-
-]
+{
+  "result": {
+    "key": "string",
+    "customerKey": "string",
+    "line1": "string",
+    "line2": "string",
+    "line3": "string",
+    "city": "string",
+    "state": "string",
+    "postCode": "string",
+    "country": "string",
+    "intlProvince": "string",
+    "latitude": 0,
+    "longitude": 0,
+    "attention": "string",
+    "companyName": "string",
+    "addressType": "string",
+    "isBad": true,
+    "isPrimary": true,
+    "isDeleted": true,
+    "addDate": "2019-05-15T17:39:17.310Z",
+    "changeDate": "2019-05-15T17:39:17.310Z"
+  },
+  "errorInfo": {
+    "errorCode": "string",
+    "errorName": "string",
+    "errorDescription": "string",
+    "userErrorCode": "string",
+    "userErrorMessage": "string",
+    "type": "string",
+    "username": "string",
+    "timeStamp": "string",
+    "exceptionDetails": "string",
+    "method": "string"
+  },
+  "errors": [
+    {
+      "key": "string",
+      "value": "string"
+    }
+  ],
+  "links": [
+    {
+      "href": "string",
+      "rel": "string",
+      "method": "string"
+    }
+  ],
+  "isForAdd": true
+}
