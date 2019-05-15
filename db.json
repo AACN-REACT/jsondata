@@ -1,4 +1,4 @@
-
+[
 {
   "result": {
     "key": "string",
@@ -49,3 +49,4 @@
   ],
   "isForAdd": true
 }
+]
